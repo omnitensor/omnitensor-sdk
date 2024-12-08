@@ -9,6 +9,10 @@ OmniTensor SDK provides a robust set of TypeScript utilities for interacting wit
 - Supports blockchain transactions and AI model interaction.
 - Includes robust validation utilities and pre-configured tools.
 
+## Installation
+
+Not available yet on npm
+
 ## Usage
 
 ### Initialize Client
